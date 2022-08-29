@@ -12,9 +12,8 @@
 <a href="https://getbootstrap.com" target="_blank">
 <img width="40px" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
 <!--Android-->
-<a href= https://github.com/iqbaalrith56?tab=repositories&q=&type=&language=android&sort= >
+<a href="https://developer.android.com/docs" target="_blank">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <!--Figma-->
-<a margin="10" href="https://figma.com" target="_blank">
-<img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-
+<a href="https://figma.com" target="_blank">
+<img width ='25px' src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
