@@ -6,7 +6,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <!--JS-->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <!--Boostrap-->
 <a href="https://getbootstrap.com" target="_blank">
@@ -14,6 +14,7 @@
 <!--Android-->
 <a href= https://github.com/iqbaalrith56?tab=repositories&q=&type=&language=android&sort= >
 <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-
-
+<!--Figma-->
+<a margin="10" href="https://figma.com" target="_blank">
+<img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
 
